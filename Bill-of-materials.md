@@ -16,7 +16,7 @@
 # RC Car Components & Procurement
 
 **Exchange rate:** 1 INR ≈ $0.0106004 USD  
-**Total cost:** ₹12,269 (≈ $130.06 USD)
+**Total cost:** ₹12,218+790 (3d printed parts) (≈ $137 USD)
 
 | No. | Component | Product Link | Price (INR) | Price (USD) | Qty. |
 |---:|---|---|---:|---:|---:|
@@ -38,4 +38,6 @@
 
 *USD prices are approximate, based on the exchange rate of November 4, 2026. Shipping and payment fees are excluded.*
 
-*Note: Screw prices are treated as pack prices (five screws per pack), not multiplied by the quantity column. Gear cost is calculated as ₹502 × 2.*
+*Note: Screw prices are treated as pack prices (five screws per pack), not multiplied by the quantity column. Gear cost is calculated as ₹251 × 2.*
+
+*3d printed parts are not mentioned in this BOM,combined cost of both parts is 790*
