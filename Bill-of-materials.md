@@ -14,6 +14,8 @@
 <img width="1611" height="812" alt="image" src="https://github.com/user-attachments/assets/b6b03b19-f7ef-4991-85a6-36e20de60644" />
 
 Total:11280
+
+
 component links
 
 Battery:https://robokits.co.in/batteries-chargers/drone-batteries/genx-power-premium-lipo-battery/genxpower-7.4v-lipo-batteries/genx-7.4v-2s-5200mah-40c-80c-premium-lipo-lithium-polymer-battery?srsltid=AU7gw4UBwS0IV1rvBYaZXR6IVfRNpNWTGXYf3wUj6-4W8HNQcdOHD-4gQh4
