@@ -1,6 +1,5 @@
 (pillow cover) 
-[Download](Part%20Studio%201.step?raw=true)
-
+[Download](https://github.com/sonishubh526-rgb/RC-car-20km-h-top-speed/raw/refs/heads/main/CAD/bottom-chasis.step)
 (motor mount) 
 [Download](motor%20mount%20(1).step?raw=true)
 
