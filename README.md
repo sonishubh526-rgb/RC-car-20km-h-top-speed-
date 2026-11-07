@@ -6,6 +6,12 @@ Some points for revieweres
 
 2.The steering system is not perfectly mapped in the chasis sketch,It is inspired from the steering system of this video: https://youtu.be/4IBQfQnRs_8?si=-K6ShauGB_TjVjt3
 
+this part is made by using simple components for the steering system:
+<img width="1098" height="493" alt="Screenshot 2026-11-07 161606" src="https://github.com/user-attachments/assets/f153a9cf-e782-4fa0-8f36-f52b115f7fe9" />
+
+this is the full steering system:
+<img width="1070" height="517" alt="Screenshot 2026-11-07 161717" src="https://github.com/user-attachments/assets/fddc22f6-5632-4e3a-a7aa-35a930d9997e" />
+
 3.2 parts (motor mount and Pillow cover of bearing) will be 3d printed 
 
 4.Cutting of parts (if required) will be done by hand
