@@ -1,0 +1,18 @@
+#include <Servo.h>
+
+Servo esc;
+
+const int ESC_PIN = 9;
+
+void setup() {
+  esc.attach(ESC_PIN);
+
+  // ESC initialization / arming
+  esc.writeMicroseconds(1000);
+  delay(3000);
+}
+
+void loop() {
+  // Neutral throttle
+  esc.writeMicroseconds(1000);
+}
