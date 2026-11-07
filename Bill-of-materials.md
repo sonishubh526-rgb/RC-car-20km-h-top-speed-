@@ -34,6 +34,7 @@
 | 12 | 625 ZZ Ball Bearing (8×22×7mm) | [OnlyScrews](https://onlyscrews.in/products/625-zz-deep-groove-ball-bearing-8x22x7) | ₹20 | $0.21 | 1 |
 | 13 | M2 × 8mm Phillips Pan Head Screw (Pack of 5) | [OnlyScrews](https://onlyscrews.in/products/m2-x-8mm-phillips-pan-head-ss-304-screw) | ₹10 | $0.11 | 5 |
 | 14 | M3 × 8mm Grub Screw (Pack of 5) | [OnlyScrews](https://onlyscrews.in/products/m3-x-8mm-grub-screw-ss304-dia-3mm-length-8mm) | ₹8 | $0.08 | 5 |
+| 15 | shaft coupler | [OnlyScrew](https://kitsguru.com/products/19mm-outer-diameter-x-25mm-length-3mm-x-5mm-inner-diameter-rb-aluminium-flexible-shaft-coupling?variant=48908116656380&country=IN) | 298 | 3.17 | 2 |
 | | **TOTAL** | | **₹12,269** | **$130.06** | |
 
 *USD prices are approximate, based on the exchange rate of November 4, 2026. Shipping and payment fees are excluded.*
