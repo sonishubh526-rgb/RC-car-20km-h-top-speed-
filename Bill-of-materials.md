@@ -35,7 +35,7 @@
 | 13 | M2 × 8mm Phillips Pan Head Screw (Pack of 5) | [OnlyScrews](https://onlyscrews.in/products/m2-x-8mm-phillips-pan-head-ss-304-screw) | ₹10 | $0.11 | 5 |
 | 14 | M3 × 8mm Grub Screw (Pack of 5) | [OnlyScrews](https://onlyscrews.in/products/m3-x-8mm-grub-screw-ss304-dia-3mm-length-8mm) | ₹8 | $0.08 | 5 |
 | 15 | shaft coupler | [OnlyScrew](https://kitsguru.com/products/19mm-outer-diameter-x-25mm-length-3mm-x-5mm-inner-diameter-rb-aluminium-flexible-shaft-coupling?variant=48908116656380&country=IN) | 298 | 3.17 | 2 |
-| | **TOTAL** | | **₹12,269** | **$130.06** | |
+| | **TOTAL** | | **₹12,567** | **$133.23** | |
 
 *USD prices are approximate, based on the exchange rate of November 4, 2026. Shipping and payment fees are excluded.*
 
